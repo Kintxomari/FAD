@@ -3,3 +3,4 @@
 *.txt
 *.pyc
 __pycache__
+wgs2utm.py
