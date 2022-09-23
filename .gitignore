@@ -1,4 +1,5 @@
 *.dat
 *.nc
 *.txt
+*.pyc
 __pycache__
